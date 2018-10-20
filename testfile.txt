@@ -1,9 +1,0 @@
-test file
-line 2
-line 3 edited
-line 4
-line 5
-line 6 
-line 7 added
-line 8 added in slave-2
-line 9 added in master
