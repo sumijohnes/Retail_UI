@@ -1,5 +1,4 @@
 Line 1 added
 line 2 added
 Line 3 added
-Line 4 added from slave-1
-Line 5 added from salve-1
+
