@@ -1,5 +1,0 @@
-Line 1 added
-line 2 added
-Line 3 added
-added line 4 again
-added from new slave-2 from command line
